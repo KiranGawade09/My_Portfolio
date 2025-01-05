@@ -270,6 +270,8 @@ nav ul li a:hover::after {
     /* Add spacing between the icons */
     display: inline-block;
     transition: transform 0.5s;
+
+   
 }
 
 
